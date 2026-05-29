@@ -1,5 +1,3 @@
-Got it — let’s draft a simple starter **Privacy Policy** for your app *Three Kingdoms*. You’ll want to customize it a bit depending on what your app actually collects, but here’s a clean template you can publish:
-
 ---
 
 ## Privacy Policy for Three Kingdoms
